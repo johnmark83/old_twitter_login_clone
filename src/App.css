@@ -1,0 +1,28 @@
+
+.right,
+.left {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image:url(../public/wp1973585.png);
+  background-size: 1300px;
+  background-position: center left;
+  background-color: #4c9feb;
+
+}
+
+input{
+  letter-spacing: 2;
+}
+h4{
+  letter-spacing: 0.1 !important;
+}
+button{
+  background-color: #4c9feb !important;
+}
+
+a{
+  color: #4c9feb !important;
+  cursor: pointer;
+}
